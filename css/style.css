@@ -22,4 +22,37 @@
     max-width: 90px;
     max-height: 90px;
     margin: 40px;
+    box-shadow: 5px 5px #242930;
+}
+
+nav{
+    text-align: center;
+    font-size: large;
+}
+
+a.home{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-right: 100px;
+}
+a.prod{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+a.serv{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+a.pagint{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding-left: 100px;
 }
