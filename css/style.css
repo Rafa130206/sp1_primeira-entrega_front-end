@@ -3,3 +3,23 @@
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.header{
+    background-color: blue;
+    height: 200px;
+}
+
+.icon{
+    max-height: 40px;
+    max-width: 35px;
+    float: right;
+    margin: 40px;
+    margin-top: 80px;
+    margin-right: 60px;
+}
+
+.porto{
+    max-width: 90px;
+    max-height: 90px;
+    margin: 40px;
+}
