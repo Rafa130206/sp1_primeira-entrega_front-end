@@ -34,25 +34,61 @@ a.home{
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding-right: 100px;
+    margin-right: 100px;
 }
 a.prod{
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding-left: 100px;
-    padding-right: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 a.serv{
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding-left: 100px;
-    padding-right: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 a.pagint{
     text-decoration: none;
     color: white;
     font-weight: bold;
-    padding-left: 100px;
+    margin-left: 100px;
+}
+
+.sec1home{
+    background-color: rgb(239, 244, 240);
+    margin: 40px;
+    border-radius: 20px;
+    max-width: 40%;
+    padding-top: 20px;
+    height: 660px;
+    float: left;
+}
+
+.mecbot{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 58px;
+}
+
+.phome{
+    line-height: 30px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: justify;
+    font-size: 26px;
+}
+
+aside{
+    max-width: 40%;
+    float: left;
+    padding: 200px;
+}
+
+.carros{
+    box-shadow: 10px 10px #242930;
+    border-radius: 10px;
 }
