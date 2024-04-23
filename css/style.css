@@ -97,7 +97,7 @@ aside{
     border-radius: 10px;
 }
 
-/* ================ Produtos ================ */
+/* ================ PRODUTOS ================ */
 
 .aviso{
     color: gray;
@@ -291,4 +291,68 @@ aside{
     padding: 20px;
     margin-left: 150px;
     box-shadow: 0px 0px 5px 5px rgb(128, 132, 129);
+}
+
+/* ================ SERVIÇOS ================ */
+
+.servh1{
+    text-align: center;
+    margin: 20px;
+    font-size: 56px;
+}
+
+.chatbotp{
+    background-color: rgb(239, 244, 240);
+    margin: 40px;
+    border-radius: 20px;
+    max-width: 40%;
+    padding-top: 20px;
+    height: 360px;
+    float: left;
+    line-height: 44px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: justify;
+    font-size: 38px;
+}
+
+.chatbotimg{
+    height: 380px;
+    margin: 40px;
+    margin-left: 100px;
+    box-shadow: 20px 20px rgb(128, 132, 129,);
+    border-radius: 20px;
+}
+
+.bdimg{
+    height: 380px;
+    margin: 40px;
+    margin-left: 100px;
+    box-shadow: 20px 20px rgb(128, 132, 129,);
+    border-radius: 20px;
+}
+
+.bdp{
+    background-color: rgb(239, 244, 240);
+    margin: 40px;
+    border-radius: 20px;
+    max-width: 40%;
+    padding-top: 20px;
+    height: 360px;
+    float: right;
+    line-height: 44px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: justify;
+    font-size: 38px;
+}
+
+/* ================ PAG.INT ================ */
+
+.paginth1{
+    text-align: center;
+    margin: 20px;
+    font-size: 56px;
 }
