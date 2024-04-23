@@ -67,7 +67,7 @@ a.pagint{
     border-radius: 20px;
     max-width: 40%;
     padding-top: 20px;
-    height: 660px;
+    height: 600px;
     float: left;
 }
 
@@ -78,18 +78,18 @@ a.pagint{
 }
 
 .phome{
-    line-height: 30px;
+    line-height: 24px;
     padding-top: 20px;
     padding-right: 40px;
     padding-left: 40px;
     text-align: justify;
-    font-size: 26px;
+    font-size: 20px;
 }
 
 aside{
     max-width: 40%;
     float: left;
-    padding: 200px;
+    padding: 100px;
 }
 
 .carros{
@@ -295,6 +295,10 @@ aside{
 
 /* ================ SERVIÇOS ================ */
 
+.bodyserv{
+    text-align: center;
+}
+
 .servh1{
     text-align: center;
     margin: 20px;
@@ -305,22 +309,21 @@ aside{
     background-color: rgb(239, 244, 240);
     margin: 40px;
     border-radius: 20px;
-    max-width: 40%;
-    padding-top: 20px;
+    width: 400px;
     height: 360px;
     float: left;
-    line-height: 44px;
+    line-height: 38px;
     padding-top: 20px;
     padding-right: 40px;
     padding-left: 40px;
     text-align: justify;
-    font-size: 38px;
+    font-size: 28px;
+    margin-left: 160px;
 }
 
 .chatbotimg{
     height: 380px;
     margin: 40px;
-    margin-left: 100px;
     box-shadow: 20px 20px rgb(128, 132, 129,);
     border-radius: 20px;
 }
@@ -337,16 +340,17 @@ aside{
     background-color: rgb(239, 244, 240);
     margin: 40px;
     border-radius: 20px;
-    max-width: 40%;
+    width: 400px;
     padding-top: 20px;
     height: 360px;
-    float: right;
-    line-height: 44px;
+    float: left;
+    line-height: 38px;
     padding-top: 20px;
     padding-right: 40px;
     padding-left: 40px;
     text-align: justify;
-    font-size: 38px;
+    font-size: 28px;
+    margin-left: 160px;
 }
 
 /* ================ PAG.INT ================ */
@@ -446,6 +450,21 @@ aside{
     padding: 20px;
     margin-left: 135px;
     box-shadow: 0px 0px 5px 5px rgb(128, 132, 129);
+}
+
+h2{
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 32px;
+}
+
+.rep{
+    color: rgb(1, 161, 253);
+    text-decoration: none;
+    text-align: center;
+    margin: 40px;
+    font-size: 18px;
 }
 
 /* ================ CADASTRO ================ */
