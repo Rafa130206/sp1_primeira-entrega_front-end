@@ -59,7 +59,7 @@ a.pagint{
     margin-left: 100px;
 }
 
-/* ================ HOME ================ */
+/* =============== HOME =============== */
 
 .sec1home{
     background-color: rgb(239, 244, 240);
@@ -97,7 +97,7 @@ aside{
     border-radius: 10px;
 }
 
-/* ================ PRODUTOS ================ */
+/* =============== PRODUTOS =============== */
 
 .aviso{
     color: gray;
@@ -293,7 +293,7 @@ aside{
     box-shadow: 0px 0px 5px 5px rgb(128, 132, 129);
 }
 
-/* ================ SERVIÇOS ================ */
+/* =============== SERVIÇOS =============== */
 
 .bodyserv{
     text-align: center;
@@ -353,7 +353,7 @@ aside{
     margin-left: 160px;
 }
 
-/* ================ PAG.INT ================ */
+/* =============== PAG.INT =============== */
 
 .paginth1{
     text-align: center;
@@ -467,7 +467,7 @@ h2{
     font-size: 18px;
 }
 
-/* ================ CADASTRO ================ */
+/* =============== CADASTRO =============== */
 
 .cadastroh1{
     text-align: center;
